@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapsLesson</string>
+
+    <string name="searching">Поиск…</string>
+
+    <string name="no_geocoder">Нет геокодера</string>
+    <string name="no_results">Ничего не найдено</string>
+    <string name="no_network">Ошибка сети</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
